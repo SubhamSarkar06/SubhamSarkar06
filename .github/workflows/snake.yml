@@ -17,14 +17,16 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%2300E5FF&color_dots=%23111827,%23312E81,%235B21B6,%237C3AED,%23A78BFA
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300E5FF&color_dots=%230B1220,%231E1B4B,%234C1D95,%236D28D9,%239C7CF4
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
