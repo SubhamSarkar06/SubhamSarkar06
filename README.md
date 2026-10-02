@@ -22,6 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SubhamSarkar06&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 👀 Profile visitors
-[![](https://komarev.com/ghpvc/?username=SubhamSarkar06&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<img src="https://komarev.com/ghpvc/?username=SubhamSarkar06&style=flat-square&color=8B5CF6" alt="Profile Visitors">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
