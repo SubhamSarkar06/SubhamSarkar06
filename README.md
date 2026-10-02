@@ -20,12 +20,23 @@
 ![](https://streak-stats.demolab.com/?user=SubhamSarkar06&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SubhamSarkar06&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 📊 Snake Game:
-<h2 align="center">🐍 My Contribution Snake</h2>
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SubhamSarkar06/SubhamSarkar06/output/github-contribution-grid-snake.svg"
-       alt="GitHub Contribution Snake">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SubhamSarkar06/SubhamSarkar06/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SubhamSarkar06/SubhamSarkar06/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/SubhamSarkar06/SubhamSarkar06/output/github-contribution-grid-snake.svg"
+      alt="Contribution Snake"
+    />
+  </picture>
 </p>
 
 ## 🏆 GitHub Trophies
