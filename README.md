@@ -63,8 +63,15 @@
 ## 🔝 Top Contributed Repositories
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg" />
-  <img alt="Top Contributed Repositories" src="./assets/repositories.light.svg" width="100%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/repositories.dark.svg"
+  />
+  <img
+    alt="Top Contributed Repositories"
+    src="./assets/repositories.light.svg"
+    width="100%"
+  />
 </picture>
 
 
