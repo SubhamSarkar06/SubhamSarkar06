@@ -18,12 +18,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhamSarkar06&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=SubhamSarkar06&theme=default&hide_border=true" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SubhamSarkar06&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    height="180"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=SubhamSarkar06&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamSarkar06&layout=compact&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamSarkar06&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+  />
 </p>
 
 ## 🐍 Contribution Snake
@@ -53,7 +62,11 @@
 
 ## 🔝 Top Contributed Repositories
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=SubhamSarkar06&limit=5&theme=default&combine_all_yearly_contributions=true&order_by=contributions)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg" />
+  <img alt="Top Contributed Repositories" src="./assets/repositories.light.svg" width="100%" />
+</picture>
+
 
 ## 👀 Profile Views
 
