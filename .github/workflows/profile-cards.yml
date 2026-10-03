@@ -1,4 +1,4 @@
-name: Update Profile Cards
+name: Profile Cards
 
 on:
   schedule:
@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@v4
 
       - name: Generate Profile Cards
         uses: seijikohara/profile-cards-action@v1
